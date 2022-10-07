@@ -1,0 +1,164 @@
+[
+    {
+      "id": 1,
+      "name": "小新 Air 14 20201酷睿版",
+      "price":4999,
+      "title": "直降300元",
+      "src": "https://p4.lefile.cn/product/adminweb/2021/12/12/NKmFMk5qSlpO1608NKoB5Lio9-5494.jpg",
+      "count":1,
+      "isSelected":false,
+      "sum":4999
+    },
+    {
+        "id": 2,
+        "name": "拯救者R7000 15.6英寸游戏",
+        "price":5999,
+        "title": "直降300元",
+        "count":1,
+        "src":"https://p3.lefile.cn/product/adminweb/2021/12/12/P7p3TWJZ9bqit75GNx3U3eRIl-8238.jpg",
+        "isSelected":false,
+        "sum":5999
+    },
+    {
+        "id": 3,
+        "name": "小新 Air14Plus 2021 14.0英寸",
+        "price":4999,
+        "count":1,
+        "title": "R5 5600U/16G/512G",
+        "src":"https://p2.lefile.cn/product/adminweb/2021/12/10/co8piGN11KZ47R3wvYgqI1ohK-0820.jpg",
+        "isSelected":false,
+        "sum":4999
+    },
+    {
+        "id": 4,
+        "name": "2021款 小新 Pro 16酷睿版",
+        "price":5799,
+        "count":1,
+        "title": "i5-1132H/16GB/512G",
+        "src":"https://p2.lefile.cn/product/adminweb/2021/12/10/qCoCkZQSoWHzcg4gAkLEMMdXQ-2030.jpg",
+        "isSelected":false,
+        "sum":5799
+    },
+    {
+        "id": 5,
+        "name": "YOGA 13s 2021款 锐龙款",
+        "price":4799,
+        "count":1,
+        "title": "直降200元",
+        "src":"https://p2.lefile.cn/product/adminweb/2021/12/13/vQzzeWkQtYoEamz6Dmf0iADq8-5540.jpg",
+        "isSelected":false,
+        "sum":4799
+    },
+    {
+        "id": 6,
+        "name": "联想小新 Pro 14英特尔Evo",
+        "price":5299,
+        "title": "直降200元",
+        "count":1,
+        "src":"https://p4.lefile.cn/product/adminweb/2021/12/10/TFwGS8oAxTLuiUloitGamieXm-0822.jpg",
+        "isSelected":false,
+        "sum":5299
+    },
+    {
+        "id": 7,
+        "name": "2021款 小新 Pro 16 锐龙款",
+        "price":5999,
+        "count":1,
+        "title": "R5 5600H、16GB、512G",
+        "src":"https://p3.lefile.cn/product/adminweb/2021/12/10/hrXyeGUMz2X3vvqlveKYJXt03-9016.jpg",
+        "isSelected":false,
+        "sum":5999
+    },
+    {
+        "id": 8,
+        "name": "拯救者 R9000K 2021款",
+        "price":11999,
+        "count":1,
+        "title": "R7 5800H/32GB/1T",
+        "src":"https://p3.lefile.cn/product/adminweb/2021/12/10/YSRcqH1kNR20EdwfIn85yJeCT-4761.jpg",
+        "isSelected":false,
+        "sum":11999
+    },
+    {
+        "id": 9,
+        "name": "拯救者 刃7000P-26AME",
+        "price":9999,
+        "count":1,
+        "title": "AMD R7 幻夜魔光外观",
+        "src": "https://p3.lefile.cn/product/adminweb/2021/10/27/EaE2ZXajEsnLOXHKjE00OUKDr-9486.jpg",
+        "isSelected":false,
+        "sum":9999
+      },
+      {
+          "id": 10,
+          "name": "拯救者刃7000K 2021合体",
+          "price":7999,
+          "count":1,
+          "title": "双滚珠轴承",
+          "src":"https://p2.lefile.cn/product/adminweb/2021/10/20/00VxoxqC47pWDjExKcB7xzMCc-4648.jpg",
+          "isSelected":false,
+          "sum":7999
+      },
+      {
+          "id": 11,
+          "name": "拯救者刃7000P-26AMR",
+          "price":12999,
+          "count":1,
+          "title": "水冷散热器 短水管设计",
+          "src":"https://p1.lefile.cn/product/adminweb/2021/08/26/WnXd6Dlmby0nXXsJw3hCNrW4u-1908.jpg",
+          "isSelected":false,
+          "sum":12999
+      },
+      {
+          "id": 12,
+          "name": "拯救者 刃7000P-26AMR",
+          "price":7599,
+          "count":1,
+          "title": "ITC 3.0 PLUS散热系统",
+          "src":"https://p2.lefile.cn/product/adminweb/2021/11/12/iWjoyRLmp1fhgZE3Vy1NVk2Vj-2919.jpg",
+          "isSelected":false,
+          "sum":7599
+      },
+      {
+          "id": 13,
+          "name": "AIO 520-27ITL 11代英特尔",
+          "price":6299,
+          "count":1,
+          "title": "27寸大屏幕 可调整坐姿",
+          "src":"https://p2.lefile.cn/product/adminweb/2021/11/27/dxP3PADgSznoDLbY4d3ZBL0kJ-6013.jpg",
+          "isSelected":false,
+          "sum":6299
+      },
+      {
+          "id": 14,
+          "name": "AIO 520-24ITL 11代英特尔",
+          "price":4999,
+          "count":1,
+          "title": "23.8寸 高色域 出众色彩",
+          "src":"https://p2.lefile.cn/product/adminweb/2021/11/19/JOd2GPYtlu81ilumv7Q37CH7C-5908.jpg",
+          "isSelected":false,
+          "sum":4999
+      },
+      {
+          "id": 15,
+          "name": "天逸510S-07IMB",
+          "price":2999,
+          "count":1,
+          "title": "搭载21.45英寸显示器",
+          "src":"https://p1.lefile.cn/product/adminweb/2021/07/22/8LQSSmLIimpC0wyB6m4OfqhIr-5259.jpg",
+          "isSelected":false,
+          "sum":2999
+      },
+      {
+          "id": 16,
+          "name": "天逸510S-07IMB",
+          "price":3799,
+          "count":1,
+          "title": "7.4L 超小机箱 机身小巧",
+          "src":"https://p1.lefile.cn/product/adminweb/2021/07/15/zOcO2gUZHZlz3w06qHBI6j9mo-6880.jpg",
+          "isSelected":false,
+          "sum":3799
+      }
+]
+        
+   
